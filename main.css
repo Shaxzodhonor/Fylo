@@ -50,7 +50,7 @@ body {
   width: 1px;
 }
 .container {
-    width: 1440px;
+    width: 1285px;
     margin-left: auto;
     margin-right: auto;
     padding-left: 20px;
@@ -416,7 +416,7 @@ color: #FFFFFF;
     background: #0B1524;
 }
 .footer-wrapper {
-    padding: 200px 60px 97px 100px;
+    padding: 200px 20px 97px 20px;
 }
 
 .footer-sections {
